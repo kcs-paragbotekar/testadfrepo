@@ -1,0 +1,9 @@
+{
+	"name": "GithubDemoDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03154c04-9145-488d-b58c-71af4a778a4c",
+		"tenantId": "21bb67cf-16db-4f8f-a738-5c8de0726b81"
+	}
+}
